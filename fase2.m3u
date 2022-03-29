@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="AMBA", MAGIC KIDS
+https://v.poastcdn.org/streaming-playlists/hls/4d4a1bdd-3c34-4d2f-8afb-635cb1ac333d/0.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
 http://directo.ddns.me:33200/800yt/202020/47580
 
