@@ -5,8 +5,49 @@
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CATAMARCA (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/lastejasonline
 
-#EXTINF:-1 tvg-logo="" group-title="NORTE", COMARCA (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="" group-title="AMBA", COMARCA TV 32.3 (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/comarca_tv
+
+#EXTINF:-1 tvg-logo="" group-title="SANTA FE", CANAL 9 CHABAS (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canal9chabas
+
+#EXTINF:-1 tvg-logo="" group-title="CORDOBA", CANAL C CORDOBA (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalccordoba
+
+#EXTINF:-1 tvg-logo="" group-title="CORDOBA", SOMOS BELLVILLE TV (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/somosbellvilletv
+
+#EXTINF:-1 tvg-logo="" group-title="CORDOBA", SHOWS SPORT CORDOBA (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalshowsport
+
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS  (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lossimpsonmega
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS 2 (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lossimpsonsupremo
+
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS 3 (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpson_mania66
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", CHAVO DEL OCHO (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_del_ocho8
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", CHAVO DEL OCHO 2 (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania02
+
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", PADRE DE FAMILIA (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia18
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
