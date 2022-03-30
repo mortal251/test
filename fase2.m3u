@@ -42,6 +42,18 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia18
 
 
+#EXTINF:-1 tvg-logo="" group-title="24-7", SOUTH PARK (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-iphttps://www.twitch.tv/splittvchannel
+
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", PLAY ANIMAX (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/playanimax
+
+
+#EXTINF:-1 tvg-logo="" group-title="24-7", MAGIC KIDS (SOLO IPTV AZUL)
+https://ltotv.herokuapp.com/iptv-query?streaming-iphttps://www.twitch.tv/retromagico
+
+
 
 
 
