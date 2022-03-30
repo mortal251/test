@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="AMBA", Tateti
+https://64vod-adaptive.akamaized.net/exp=1648659937~acl=%2Fcb11cbc4-cd97-473e-b332-0d191c7e57f7%2F%2A~hmac=5529cfa8d05136679c65a894ad29060384aa3c82f89aef6be69dad7a7806a487/cb11cbc4-cd97-473e-b332-0d191c7e57f7/sep/video/a2ecbe41,d3fe39cb,dd300b78/master.m3u8?absolute=1
+
+
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
