@@ -218,3 +218,204 @@ http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist
 
 
 
+#EXTINF:-1,Star Channel
+http://195.181.163.39:8080/LAT_Fox_HD/index.m3u8
+#EXTINF:-1,SPACE HD
+http://195.181.163.39:8080/LAT_Space_HD/index.m3u8
+#EXTINF:-1,TNT
+http://195.181.163.39:8080/LAT_TNT_HD/index.m3u8
+#EXTINF:-1,ESPN (AR)
+http://195.181.163.39:8080/DEP_ESPN_2_ARG/index.m3u8
+#EXTINF:-1,ESPN 3 (AR)
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+#EXTINF:-1,FOX SPORTS 1 (AR)
+http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 (AR)
+http://195.181.163.39:8080/DEP_FOX_SPORTS_2_ARG/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 (AR)
+http://195.181.163.39:8080/DEP_FOX_SPORTS_3_ARG/index.m3u8
+#EXTINF:-1,TNT SPORTS ARGENTINA
+http://195.181.163.39:8080/DEP_TNT_SPORTS/index.m3u8
+#EXTINF:-1,WIN SPORTS
+http://195.181.163.39:8080/DEP_WIN_SPORTS/index.m3u8
+#EXTINF:-1,CINECANAL
+http://195.181.163.39:8080/LAT_Cinecanal_HD/index.m3u8
+#EXTINF:-1,Azteca 7
+http://195.181.163.39:8080/LAT_Azteca_7_HD/index.m3u8
+#EXTINF:-1,TNT SERIES
+http://195.181.163.39:8080/LAT_TNT_Series_HD/index.m3u8
+#EXTINF:-1,STAR LIFE
+http://195.181.163.39:8080/LAT_Fox_Life_HD/index.m3u8
+#EXTINF:-1,DirecTV Sports
+http://195.181.163.39:8080/ECU-DIRECTTV_SP1/index.m3u8
+#EXTINF:-1,DirecTV Sports 2
+http://195.181.163.39:8080/ECU-DIRECTTV_SP2/index.m3u8
+#EXTINF:-1,AMERICA TV HD
+https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/index.m3u8
+#EXTINF:-1,LATINA HD
+https://qlobbidev.s.llnwi.net/bpk-tv/LATINA/hls/index.m3u8
+#EXTINF:-1,Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
+#EXTINF:-1,GOLDEN
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
+#EXTINF:-1,Azteca Corazon
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
+#EXTINF:-1,Azteca Clic
+https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
+#EXTINF:-1,Azteca Cinema
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
+#EXTINF:-1,Azteca Mundo
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
+#EXTINF:-1,De Película
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
+#EXTINF:-1,Panamericana
+https://qlobbidev.s.llnwi.net/bpk-tv/PANAMERICANA/hls/index.m3u8
+#EXTINF:-1,La Tele
+https://qlobbidev.s.llnwi.net/bpk-tv/LATELE/hls/index.m3u8
+#EXTINF:-1,Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1,Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+#EXTINF:-1,Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+#EXTINF:-1,Disney Junior
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+#EXTINF:-1,ATV Plus
+https://qlobbidev.s.llnwi.net/bpk-tv/ATVHD/hls/index.m3u8
+#EXTINF:-1,Exitosa
+https://qlobbidev.s.llnwi.net/bpk-tv/LAEXITOSA/hls/index.m3u8
+#EXTINF:-1,ATV Sur
+https://qlobbidev.s.llnwi.net/bpk-tv/ATVSURHD/hls/index.m3u8
+#EXTINF:-1,Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+#EXTINF:-1,Venus
+https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
+#EXTINF:-1,TV Peru
+https://qlobbidev.s.llnwi.net/bpk-tv/TVPERU/hls/index.m3u8
+#EXTINF:-1,AMC
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
+#EXTINF:-1,RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+#EXTINF:-1,TlNovelas
+https://qlobbidev.s.llnwi.net/bpk-tv/MERIDIANO/hls/index.m3u8
+#EXTINF:-1,National Geographic
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+#EXTINF:-1,FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+#EXTINF:-1,Gourmet
+https://qlobbidev.s.llnwi.net/bpk-tv/GOURMET/hls/index.m3u8
+#EXTINF:-1,Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+#EXTINF:-1,DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+#EXTINF:-1,MTV
+http://195.181.163.39:8080/LAT_MTV_HD/index.m3u8
+#EXTINF:-1,TLC
+http://195.181.163.39:8080/LAT_TLC_HD/index.m3u8
+#EXTINF:-1,Boomerang
+http://195.181.163.39:8080/LAT_Boomerang_HD/index.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1,CNN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1,E! Entertainment
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
+#EXTINF:-1,ADN 40
+http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
+#EXTINF:-1,A&E
+http://195.181.163.39:8080/LAT_A&E_HD/index.m3u8
+#EXTINF:-1,Lifetime
+http://195.181.163.39:8080/LAT_Lifetime_HD/index.m3u8
+#EXTINF:-1,Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+#EXTINF:-1,Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
+#EXTINF:-1,Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1,Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
+#EXTINF:-1,STAR ACTION
+http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Afizzionados
+http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1,STAR FUN
+http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,STAR SERIES
+http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1,STAR COMEDY
+http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
+#EXTINF:-1,HBO
+http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO 2
+http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO PLUS
+http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO Signature
+http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO FAMILY
+http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO POP
+http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Telemundo
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+#EXTINF:-1,Studio Universal
+http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
+#EXTINF:-1,FOX SPORTS MX
+http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1,FOX SPORTS 3 MX
+http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1,TUDN
+http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
+#EXTINF:-1,Golden Plus
+http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
+#EXTINF:-1,Golden Premier
+http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1,NICKELODEON
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+#EXTINF:-1,TELEFE
+http://balancer1.iptvmx.com:8081/tecno/Telefe.TecnoByte/chunks.m3u8
+#EXTINF:-1,ANTENA 3
+http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
+#EXTINF:-1,NU9VE
+http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
+#EXTINF:-1,Imagen
+http://balancer1.iptvmx.com:8081/tecno/imagen.TecnoByte/chunks.m3u8
+#EXTINF:-1,Animal Planet
+http://balancer1.iptvmx.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
+#EXTINF:-1,Discovery Channel
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
+#EXTINF:-1,DISCOVERY HOME and HEALTH
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
+#EXTINF:-1,History Channel
+http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
+#EXTINF:-1,Discovery Theater
+http://balancer1.iptvmx.com:8081/tecno/Discovery_Theater.TecnoByte/chunks.m3u8
+#EXTINF:-1,Discovery Science
+http://balancer1.iptvmx.com:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
+#EXTINF:-1,Discovery Turbo
+http://balancer1.iptvmx.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Discovery World
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Espn MX
+http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:-1,Espn 2 MX
+http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:-1,Espn 3 MX
+http://balancer1.iptvmx.com:8081/tecno/Espn3.BKR/chunks.m3u8
+#EXTINF:-1,HGTV
+http://balancer1.iptvmx.com:8081/tecno/HGTV.TecnoByte/chunks.m3u8
+#EXTINF:-1,TOONCAST
+http://balancer1.iptvmx.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
+#EXTINF:-1,TCM
+http://balancer1.iptvmx.com:8081/tecno/TCM.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Nick Music
+http://balancer1.iptvmx.com:8081/tecno/Nicktoons.TecnoByte/chunks.m3u8
+#EXTINF:-1,Discovery ID
+http://balancer1.iptvmx.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
+#EXTINF:-1,Azteca Uno
+http://balancer1.iptvmx.com:8081/tecno/AZ1.TecnoByte/chunks.m3u8
+
+
+
