@@ -1,5 +1,18 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", https://ssiptvarg.weebly.com/
+http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
+http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", ENTRA EN LA WEB A ESTA DIRE
+http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", https://ssiptvarg.weebly.com/
+http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/My_talking_tom_logo2.jpg" group-title="Infantil", talkin tom
 https://tvlavoz.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=2PeFhZg-Ci4
 
@@ -107,17 +120,7 @@ https://live.prd.dlive.tv/hls/live/tv40oficial.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4 
 https://g4.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", EXPIRO LISTA
 http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
