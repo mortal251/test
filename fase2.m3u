@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/My_talking_tom_logo2.jpg" group-title="Infantil", talkin tom
+https://tvlavoz.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=2PeFhZg-Ci4
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CATAMARCA (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/lastejasonline
