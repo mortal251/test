@@ -20,19 +20,19 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CATAMARCA (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/lastejasonline
 
-#EXTINF:-1 tvg-logo="" group-title="AMBA", COMARCA TV 32.3 (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269288353737908224/J6J5GGmm_400x400.png" group-title="AMBA", COMARCA TV 32.3 (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/comarca_tv
 
-#EXTINF:-1 tvg-logo="" group-title="SANTA FE", CANAL 9 CHABAS (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1394626584569581570/_4V06NHT_400x400.jpg" group-title="SANTA FE", CANAL 9 CHABAS (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canal9chabas
 
-#EXTINF:-1 tvg-logo="" group-title="CORDOBA", CANAL C CORDOBA (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1391568260148125721/5dDxNX8w_400x400.jpg" group-title="CORDOBA", CANAL C CORDOBA (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalccordoba
 
-#EXTINF:-1 tvg-logo="" group-title="CORDOBA", SOMOS BELLVILLE TV (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.LogCV-SomosGualeguaychu.png.5796644e653497a4214b0fb409411fc1.png" group-title="CORDOBA", SOMOS BELLVILLE TV (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/somosbellvilletv
 
-#EXTINF:-1 tvg-logo="" group-title="CORDOBA", SHOWS SPORT CORDOBA (SOLO IPTV AZUL)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463883075432161282/cSE_vMpH_400x400.png" group-title="CORDOBA", SHOWS SPORT CORDOBA (SOLO IPTV AZUL)
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalshowsport
 
 
