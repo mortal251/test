@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
+https://dlx1rvhnuclfo.cloudfront.net/hls/2/index.m3u8?gfh
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
 http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
