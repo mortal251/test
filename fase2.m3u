@@ -5,45 +5,12 @@
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_31_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn premiun
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_32_chunklist_b1300000.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_33_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_34_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_35_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_36_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_37_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_38_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_39_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://190.210.221.119/Processor3_40_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
 https://dlx1rvhnuclfo.cloudfront.net/hls/2/index.m3u8?gfh
@@ -68,89 +35,13 @@ http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 3
-https://dlx1rvhnuclfo.cloudfront.net/hls/209/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/3/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/4/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/5/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/6/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/7/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/8/index.m3u8?gfh
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/9/index.m3u8?gfh
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://dlx1rvhnuclfo.cloudfront.net/hls/10/index.m3u8?gfh
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTE", TyC SPORT 
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CATAMARCA (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/lastejasonline
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269288353737908224/J6J5GGmm_400x400.png" group-title="AMBA", COMARCA TV 32.3 (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/comarca_tv
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1394626584569581570/_4V06NHT_400x400.jpg" group-title="SANTA FE", CANAL 9 CHABAS (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canal9chabas
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1391568260148125721/5dDxNX8w_400x400.jpg" group-title="CORDOBA", CANAL C CORDOBA (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalccordoba
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.LogCV-SomosGualeguaychu.png.5796644e653497a4214b0fb409411fc1.png" group-title="CORDOBA", SOMOS BELLVILLE TV (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/somosbellvilletv
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463883075432161282/cSE_vMpH_400x400.png" group-title="CORDOBA", SHOWS SPORT CORDOBA (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalshowsport
 
 
-#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS  (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lossimpsonmega
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS 2 (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lossimpsonsupremo
 
 
-#EXTINF:-1 tvg-logo="" group-title="24-7", LOS SIMPSONS 3 (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpson_mania66
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", CHAVO DEL OCHO (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_del_ocho8
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", CHAVO DEL OCHO 2 (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania02
-
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", PADRE DE FAMILIA (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia18
-
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", SOUTH PARK (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-iphttps://www.twitch.tv/splittvchannel
-
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", PLAY ANIMAX (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/playanimax
-
-
-#EXTINF:-1 tvg-logo="" group-title="24-7", MAGIC KIDS (SOLO IPTV AZUL)
-https://ltotv.herokuapp.com/iptv-query?streaming-iphttps://www.twitch.tv/retromagico
 
 
 
@@ -199,8 +90,7 @@ http://directo.ddns.me:33200/800yt/202020/14029
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/854898069870608394/942116758578417674/TV40_Gris.png" group-title="AMBA", TV40
-https://live.prd.dlive.tv/hls/live/tv40oficial.m3u8
+
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4 
 https://g4.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
