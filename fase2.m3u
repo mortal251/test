@@ -17,6 +17,17 @@ https://ed2.zorrohd.nl/live/ST787d1e8f013e219.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", tnt sports
 https://sv.spliktv.xyz/live/caster/enc/TNTSPORTS.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", tnt sports chile
+http://tnt-sports.cl.spliktv.xyz/Processor3_10_chunklist_b1300000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", eventos 2
+http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/Eventos_2_HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", bein sports
+http://iptvcanales.gq/canales/televall/595/playlist.m3u8
+
 
 
 
