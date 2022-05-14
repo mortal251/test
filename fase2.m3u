@@ -8,6 +8,12 @@ http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn premiun
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn 
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", vtv uruguay
+https://ed2.zorrohd.nl/live/ST787d1e8f013e219.m3u8
+
 
 
 
