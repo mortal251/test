@@ -216,10 +216,7 @@ http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist
 #EXTINF:-1,NET TV ARG.
 http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/ID/SA_SAGEMCOM/ID.m3u8
+
 #EXTINF:-1   group-title="GGGG", A1
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1   group-title="GGGG", A1
@@ -229,105 +226,38 @@ http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
 #EXTINF:-1   group-title="GGGG", A1
 http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
 #EXTINF:-1   group-title="GGGG", A1
-http://51.79.18.128:8081/LATINO
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
-#EXTINF:-1   group-title="GGGG", A1
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_Civilization/SA_SAGEMCOM/Discovery_Civilization.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-#EXTINF:-1   group-title="GGGG", A1
 https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1   group-title="GGGG", A1
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/MTVHD/op/hls-default/f/index.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/HTV/SA_SAGEMCOM/HTV.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live11-sl.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1   group-title="GGGG", A1
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1   group-title="GGGG", A1
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/cartoonnetwork/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/lasestrellas/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/telemundo/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/hbofamilyhd/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/tbs/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/tlc/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar//live/live/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/universal/mono.m3u8
+
+
 #EXTINF:-1   group-title="GGGG", A1
 http://45.161.188.242:88/cinecanal/mono.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://45.161.188.242:88/cinemax/mono.m3u8
+
 #EXTINF:-1   group-title="GGGG", A1
 https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://66.70.176.103:8081/SPAIN
-#EXTINF:-1   group-title="GGGG", A1
-http://latinotvplay.xyz:8080/get.php?username=JasmaniCariloTv68&password=VNsHzNuhec&type=m3u
+
+
 #EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
 #EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
 #EXTINF:-1   group-title="GGGG", A1
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
-#EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+
+
 #EXTINF:-1   group-title="GGGG", A1
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1   group-title="GGGG", A1
