@@ -1,14 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn *
-https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryld/1_rkv54815/format/applehttp/protocol/https/uiConfld/50195093/a.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", fox sport 1
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn premiun
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", directv sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn 
