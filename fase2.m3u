@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports
 https://ed5.zorrohd.nl/live/flowitc91zh.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports +
+https://ed5.zorrohd.nl/live/flowitc94l9.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports +
+https://ed7.zorrohd.nl/live/flowitc96js.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
