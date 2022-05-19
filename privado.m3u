@@ -244,8 +244,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3
 #EXTINF:-1, Cartoonito
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
-#EXTINF:-1,ANIMOTION
-http://51.222.241.122:8000/play/a00j
+
 
 
 #EXTINF:-1 group-title="TV Cine y Series", Cinema Plus
