@@ -106,28 +106,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://edgesports-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,PAC-12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,ESPN
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1,ESPN 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1,ESPN 3
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1,ESPN 4
-ttps://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1, FOX Sports 
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1, FOX Sports 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1, FOX Sports 3
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1, FOX Sports Premium
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1, TNT Sports
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1, TYC Sports
-http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1, NBA TV
-http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+
 
 
 #EXTINF:-1 group-title="TV Cultura",Love Nature Latino
