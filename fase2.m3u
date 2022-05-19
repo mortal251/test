@@ -215,8 +215,6 @@ http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist
 
 
 
-#EXTINF:-1,NET TV ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
 
 
 #EXTINF:-1   group-title="GGGG", A1
@@ -376,32 +374,58 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGE
 #EXTINF:-1   group-title="GGGG", A1
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8 
 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8 #EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8 #EXTINF:-1   group-title="GGGG", A1
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8 #EXTINF:-1   group-title="GGGG", A1
@@ -449,46 +473,85 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8 #EXT
 https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8 #EXTINF:-1   group-title="GGGG", A1
 https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar//live/c2live/CM/SA_SAGEMCOM/CM.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar//live/c2live/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar//live/c2live/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://edge9-hr.cvattv.com.ar/live/c2live/ISAT/SA_SAGEMCOM/ISAT.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/PARAMOUNT/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/STUDIOUNIVERSALHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/TRUTVHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/GLITZ/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/DISCOVERYSCIENCE/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/DISCOVERYWORLDHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/NICKELODEONHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/TVNCHILE/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/NATGEOHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cdn.digital.com.bo/cl/cg:sworigin2/c/ANIMALPLANETHD/op/hls-default/f/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
+https://edge9-hr.cvattv.com.ar//live/c2live/CM/SA_SAGEMCOM/CM.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://edge9-hr.cvattv.com.ar//live/c2live/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://edge9-hr.cvattv.com.ar//live/c2live/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://edge9-hr.cvattv.com.ar/live/c2live/ISAT/SA_SAGEMCOM/ISAT.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/PARAMOUNT/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/STUDIOUNIVERSALHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/TRUTVHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/GLITZ/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/DISCOVERYSCIENCE/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/DISCOVERYWORLDHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/NICKELODEONHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/TVNCHILE/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/NATGEOHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cdn.digital.com.bo/cl/cg:sworigin2/c/ANIMALPLANETHD/op/hls-default/f/index.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://158.69.117.205:9039/skyarts/tracks-v1a1/mono.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://82.114.83.86:8005/playlist.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://82.114.83.86:8006/playlist.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://82.114.83.86:8007/playlist.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-https://cp.sradiotv.com:1936/8076/8076/chunklist_w1791586513.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8 #EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8 #EXTINF:-1   group-title="GGGG", A1
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8 #
+EXTINF:-1   group-title="GGGG", A1
+http://158.69.117.205:9039/skyarts/tracks-v1a1/mono.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://82.114.83.86:8005/playlist.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://82.114.83.86:8006/playlist.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://82.114.83.86:8007/playlist.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+https://cp.sradiotv.com:1936/8076/8076/chunklist_w1791586513.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8 
+#EXTINF:-1   group-title="GGGG", A1
 http://edge-live14-hr.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8 
 #EXTINF:-1   group-title="GGGG", A1
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8 
