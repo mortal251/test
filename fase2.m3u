@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", SPOT 1
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", SPOT 2
-https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", SPOT 3
-https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", SPOT 4
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", fox sport 1
