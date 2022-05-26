@@ -1,4 +1,23 @@
 #EXTM3U
+
+
+#EXTINF:-1,AR ESPN Extra
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2862
+#EXTINF:-1,AR ESPN_2_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2863
+#EXTINF:-1,AR ESPN_3_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2864
+#EXTINF:-1,AR ESPN_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2865
+#EXTINF:-1,AR FOX_SPORTS_2_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2880
+#EXTINF:-1,AR FOX_SPORTS_3_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2881
+#EXTINF:-1,AR FOX_SPORTS_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2882
+#EXTINF:-1,AR FOXSP_PREMIUM_HD
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2883
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", ESPN +
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
