@@ -18,6 +18,36 @@ http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2882
 #EXTINF:-1,AR FOXSP_PREMIUM_HD
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/2883
 
+
+#EXTINF:-1,BA: ARENA SPORT 1 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10263
+#EXTINF:-1,HR: ARENA SPORT 1 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10264
+#EXTINF:-1,SR: ARENA SPORT 1 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10265
+#EXTINF:-1,HR: ARENA SPORT 2 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10266
+#EXTINF:-1,SR: ARENA SPORT 2 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10267
+#EXTINF:-1,HR: ARENA SPORT 3 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10268
+#EXTINF:-1,SR: ARENA SPORT 3 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10269
+#EXTINF:-1,Arena Sport 1 Premium
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/38020
+#EXTINF:-1,Arena Sport 2 Premium
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/38021
+#EXTINF:-1,Arena Sport 3 Premium
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/38022
+#EXTINF:-1,HR: ARENA SPORT 4 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10270
+#EXTINF:-1,SR: ARENA SPORT 4 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10271
+#EXTINF:-1,HR: ARENA SPORT 5 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10272
+#EXTINF:-1,SR: ARENA SPORT 5 HD
+http://live.baltazar.pro:80/basivity/tq1rQq91zO/10273
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", ESPN +
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
