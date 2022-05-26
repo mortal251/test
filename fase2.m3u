@@ -15,6 +15,9 @@ https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1 tvg-id="beINSPORTS.us" group-title="Channels", win sports
 https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTS.us" group-title="Channels", nba
+https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORT 4 HD
 http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17770.m3u8
