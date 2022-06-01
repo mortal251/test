@@ -480,33 +480,20 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u
 http://edge-live14-hr.cvattv.com.ar/live/c4eds/History_2/SA_SAGEMCOM/History_2.m3u8 
 #EXTINF:-1   group-title="GGGG", A1
 http://edge-live14-hr.cvattv.com.ar/live/c4eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8 #EXTINF:-1   group-title="GGGG", A1
+
+#EXTINF:-1   group-title="LISTA 1", COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8 
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO
 http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO
 http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
+#EXTINF:-1   group-title="LISTA 1", TELECENTRO
 http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
+#EXTINF:-1   group-title="LISTA 1", CANAL 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_SAGEMCOM/Encuentro.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
+
+#EXTINF:-1   group-title="LISTA 1", TELEFE
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8 
-#EXTINF:-1   group-title="GGGG", A1
-https://chromecast.cvattv.com.ar/live/c2live/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8 
 
 
 
