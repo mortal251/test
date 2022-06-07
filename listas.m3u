@@ -1,6 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1   group-title="LISTA 1", STARS CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8 
 
+#EXTINF:-1   group-title="LISTA 1", RTV PENDIMI
+http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8 
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
+
+#EXTINF:-1   group-title="LISTA 1", ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+
+
+
+
+#EXTINF:-1   group-title="LISTA 1", ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8 
+
+
+
+
+
+#EXTINF:-1   group-title="LISTA 1", CINECANAL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8 
+
+#EXTINF:-1   group-title="LISTA 1", CARTOON NETWORK
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8 
+
+#EXTINF:-1   group-title="LISTA 1", DISNEY CHANNEL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8 
+
+
+#EXTINF:-1   group-title="LISTA 1", DISCOVERY CHANNEL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8 
+#EXTINF:-1   group-title="LISTA 1", NAT GEO
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8 
 
 
 #EXTINF:-1   group-title="LISTA 1", CANAL 4 RD
