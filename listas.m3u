@@ -1,526 +1,167 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1,ES: TVE Internacional SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27229
-#EXTINF:-1,ES: 24h SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/115702
-#EXTINF:-1,ES: La 1 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102
-#EXTINF:-1,ES: La 1 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3071
-#EXTINF:-1,ES: La 1 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/103
-#EXTINF:-1,ES: La 2 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/106
-#EXTINF:-1,ES: La 2 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/228841
-#EXTINF:-1,ES: La 2 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/107
-#EXTINF:-1,ES: Antena 3 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36
-#EXTINF:-1,ES: Antena 3 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3072
-#EXTINF:-1,ES: Antena 3 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/35
-#EXTINF:-1,ES: Antena 3 Internacional SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24433
-#EXTINF:-1,ES: Antena 3 Internacional FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24434
-#EXTINF:-1,ES: Cuatro SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/2
-#EXTINF:-1,ES: Cuatro HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3073
-#EXTINF:-1,ES: Cuatro FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/144
-#EXTINF:-1,ES: Telecinco SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/75
-#EXTINF:-1,ES: Telecinco HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3074
-#EXTINF:-1,ES: Telecinco FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/77
-#EXTINF:-1,ES: La Sexta SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/104
-#EXTINF:-1,ES: La Sexta HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3075
-#EXTINF:-1,ES: La Sexta FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/105
-#EXTINF:-1,ES: Hispan TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/9978
-#EXTINF:-1,ES: Intereconomia
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27249
-#EXTINF:-1,ES: Telemadrid SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27274
-#EXTINF:-1,ES: Trece SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/314589
-#EXTINF:-1,ES: CGTN En Español SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/9981
-#EXTINF:-1,ES: Star TVE SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/25145
-#EXTINF:-1,ES: Star TVE FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/25146
-#EXTINF:-1,ES: BeMad SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/34566
-#EXTINF:-1,ES: BeMad FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/15239
-#EXTINF:-1,ES: Blaze SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/39
-#EXTINF:-1,ES: Blaze HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234741
-#EXTINF:-1,ES: MEGA SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/132
-#EXTINF:-1,ES: MEGA HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/23861
-#EXTINF:-1,ES: Divinity SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/157
-#EXTINF:-1,ES: Divinity HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234737
-#EXTINF:-1,ES: Dkiss SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/159
-#EXTINF:-1,ES: DMAX SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/158
-#EXTINF:-1,ES: Energy SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/160
-#EXTINF:-1,ES: FDF SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/165
-#EXTINF:-1,ES: FDF FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234744
-#EXTINF:-1,ES: Neox SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/56
-#EXTINF:-1,ES: Neox FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/11150
-#EXTINF:-1,ES: Nova SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/60
-#EXTINF:-1,ES: Odisea SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/18
-#EXTINF:-1,ES: Odisea FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/15240
-#EXTINF:-1,ES: Calle 13 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/21
-#EXTINF:-1,ES: Calle 13 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3055
-#EXTINF:-1,ES: Calle 13 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/20
-#EXTINF:-1,ES: Comedy Central SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7
-#EXTINF:-1,ES: Comedy Central HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3080
-#EXTINF:-1,ES: Comedy Central FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/6
-#EXTINF:-1,ES: Canal Cocina SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/19
-#EXTINF:-1,ES: Canal Cocina FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24143
-#EXTINF:-1,ES: COSMO SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/5
-#EXTINF:-1,ES: COSMO HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3079
-#EXTINF:-1,ES: COSMO FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/4
-#EXTINF:-1,ES: Crimen Investigacion SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3
-#EXTINF:-1,ES: Crimen Investigacion HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234746
-#EXTINF:-1,ES: Ten SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/80
-#EXTINF:-1,ES: DARK SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127259
-#EXTINF:-1,ES: DARK FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/145
-#EXTINF:-1,ES: Decasa SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/151
-#EXTINF:-1,ES: Decasa HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/34571
-#EXTINF:-1,ES: Discovery Channel SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/152
-#EXTINF:-1,ES: Discovery Channel FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234747
-#EXTINF:-1,ES: Historia SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/98
-#EXTINF:-1,ES: Historia FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/11154
-#EXTINF:-1,ES: NatGeo SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/54
-#EXTINF:-1,ES: NatGeo HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3043
-#EXTINF:-1,ES: NatGeo FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/55
-#EXTINF:-1,ES: NatGeo Wild SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/51
-#EXTINF:-1,ES: NatGeo Wild HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3042
-#EXTINF:-1,ES: NatGeo Wild FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/52
-#EXTINF:-1,ES: Cazavision SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/9987
-#EXTINF:-1,ES: Caza y Pesca SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/14
-#EXTINF:-1,ES: Caza y Pesca HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3081
-#EXTINF:-1,ES: Caza y Pesca FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/13
-#EXTINF:-1,ES: Toros TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/83
-#EXTINF:-1,ES: Toros TV HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3040
-#EXTINF:-1,ES: Toros TV FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24154
-#EXTINF:-1,ES: #0 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/12
-#EXTINF:-1,ES: #0 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3049
-#EXTINF:-1,ES: Sundance TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/69
-#EXTINF:-1,ES: Sundance TV HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234753
-#EXTINF:-1,ES: Sundance TV FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234754
-#EXTINF:-1,ES: Paramount Channel SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/61
-#EXTINF:-1,ES: MyTime Movie Network SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/228844
-#EXTINF:-1,ES: MyTime Movie Network HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/228845
-#EXTINF:-1,ES: MyTime Movie Network FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/228846
-#EXTINF:-1,ES: SyFy SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/72
-#EXTINF:-1,ES: SyFy HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3069
-#EXTINF:-1,ES: SyFy FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/76
-#EXTINF:-1,ES: TCM SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/73
-#EXTINF:-1,ES: TCM HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3058
-#EXTINF:-1,ES: TCM FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/74
-#EXTINF:-1,ES: Hollywood SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/99
-#EXTINF:-1,ES: Hollywood HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3056
-#EXTINF:-1,ES: Hollywood FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/101
-#EXTINF:-1,ES: XTRM HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/9988
-#EXTINF:-1,ES: XTRM FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/9990
-#EXTINF:-1,ES: SOMOS SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/309345
-#EXTINF:-1,ES: SOMOS FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/11162
-#EXTINF:-1,ES: A3Series SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234752
-#EXTINF:-1,ES: A3Series HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/112992
-#EXTINF:-1,ES: A3Series FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24421
-#EXTINF:-1,ES: A3Series Internacional FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/36592
-#EXTINF:-1,ES: AXN SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32
-#EXTINF:-1,ES: AXN HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3082
-#EXTINF:-1,ES: AXN FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/31
-#EXTINF:-1,ES: AXN White SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/30
-#EXTINF:-1,ES: AXN White HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3083
-#EXTINF:-1,ES: AXN White FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/29
-#EXTINF:-1,ES: AMC SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/38
-#EXTINF:-1,ES: AMC HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3084
-#EXTINF:-1,ES: AMC FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/37
-#EXTINF:-1,ES: TNT SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/81
-#EXTINF:-1,ES: TNT HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3057
-#EXTINF:-1,ES: TNT FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/82
-#EXTINF:-1,ES: FOX SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/166
-#EXTINF:-1,ES: FOX HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3077
-#EXTINF:-1,ES: FOX FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/94
-#EXTINF:-1,ES: Rakuten HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/316758
-#EXTINF:-1,ES: M. Estrenos SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/46
-#EXTINF:-1,ES: M. Estrenos HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3051
-#EXTINF:-1,ES: M. Estrenos FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/133
-#EXTINF:-1,ES: M. Estrenos 2 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/138
-#EXTINF:-1,ES: M. Estrenos 2 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3050
-#EXTINF:-1,ES: M. Estrenos 2 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/139
-#EXTINF:-1,ES: M. Drama SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/44
-#EXTINF:-1,ES: M. Drama HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3054
-#EXTINF:-1,ES: M. Drama FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/45
-#EXTINF:-1,ES: M. Accion SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/136
-#EXTINF:-1,ES: M. Accion HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3053
-#EXTINF:-1,ES: M. Accion FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/137
-#EXTINF:-1,ES: M. Comedia SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/140
-#EXTINF:-1,ES: M. Comedia HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3052
-#EXTINF:-1,ES: M. Comedia FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/143
-#EXTINF:-1,ES: M. Series SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48
-#EXTINF:-1,ES: M. Series HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3060
-#EXTINF:-1,ES: M. Series FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/49
-#EXTINF:-1,ES: M. Series 2 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/50
-#EXTINF:-1,ES: M. Series 2 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27252
-#EXTINF:-1,ES: M. Cine Español SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/149
-#EXTINF:-1,ES: Taquilla 1
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27268
-#EXTINF:-1,ES: Taquilla 2
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27269
-#EXTINF:-1,ES: Taquilla 3
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27270
-#EXTINF:-1,ES: Taquilla 4 Crimen
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/27271
-#EXTINF:-1,ES: Taquilla 5
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127260
-#EXTINF:-1,ES: Taquilla 6
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127261
-#EXTINF:-1,ES: Taquilla 7
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127262
-#EXTINF:-1,ES: Boing SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24
-#EXTINF:-1,ES: Boing HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/127263
-#EXTINF:-1,ES: Baby TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/28
-#EXTINF:-1,ES: Canal Panda SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/16
-#EXTINF:-1,ES: Clan TVE SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10
-#EXTINF:-1,ES: Disney Channel SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/153
-#EXTINF:-1,ES: Disney Channel HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3078
-#EXTINF:-1,ES: Disney Channel FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/154
-#EXTINF:-1,ES: Disney Junior SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/155
-#EXTINF:-1,ES: Nick Jr SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/59
-#EXTINF:-1,ES: Nickelodeon SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/57
-#EXTINF:-1,ES: Nickelodeon HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/3070
-#EXTINF:-1,ES: Nickelodeon FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/58
-#EXTINF:-1,ES: M. Dreamworks SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/112997
-#EXTINF:-1,ES: M. Dreamworks FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/112998
-#EXTINF:-1,ES: MTV España SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/53
-#EXTINF:-1,ES: Mezzo SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/134
-#EXTINF:-1,ES: M. Fest FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234750
-#EXTINF:-1,ES: Alcarria TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/11119
-#EXTINF:-1,ES: A Punt SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48280
-#EXTINF:-1,ES: Aragon TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48294
-#EXTINF:-1,ES: Bondia TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48361
-#EXTINF:-1,ES: Canal Sur Andalucía FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/15
-#EXTINF:-1,ES: Canal Malaga HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48291
-#EXTINF:-1,ES: Canal 25 Barbastro TV HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48296
-#EXTINF:-1,ES: Canal Extremadura TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48423
-#EXTINF:-1,ES: Diez TV FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48452
-#EXTINF:-1,ES: Hamaika FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48435
-#EXTINF:-1,ES: Iberalia TV SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/100
-#EXTINF:-1,ES: Interalmeria FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48288
-#EXTINF:-1,ES: Canal Sur Andalucía SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/284902
-#EXTINF:-1,ES: TV Galicia America SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48425
-#EXTINF:-1,ES: TV Galicia America HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10105
-#EXTINF:-1,ES: TV Galicia Cultura HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10106
-#EXTINF:-1,ES: TV Galicia Europa SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48424
-#EXTINF:-1,ES: TV Galicia Europa HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10107
-#EXTINF:-1,ES: TV Galicia Infantil HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10111
-#EXTINF:-1,ES: TV Galicia Momentos G HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/10112
-#EXTINF:-1,ES: Televisió de Girona HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48420
-#EXTINF:-1,ES: TV3 FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48306
-#EXTINF:-1,ES: ETB 1 SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48433
-#EXTINF:-1,ES: ETB 1 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32154
-#EXTINF:-1,ES: ETB 2 SD  
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48434
-#EXTINF:-1,ES: ETB 2 HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/32155
-#EXTINF:-1,ES: ETB SAT SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48432
-#EXTINF:-1,ES: RTV Castilla y León SD (web)
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48305
-#EXTINF:-1,ES: RTV Castilla y León HD (web)
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/48304
-#EXTINF:-1,ES: Onda Algeciras TV
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/51572
-#EXTINF:-1,ES: 091 Alerta Policia HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/209447
-#EXTINF:-1,ES: Amazonas Clandestino HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/212948
-#EXTINF:-1,ES: Callejeros 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/212949
-#EXTINF:-1,ES: Callejeros Viajeros 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/212950
-#EXTINF:-1,ES: Cuarto Milenio HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/212951
-#EXTINF:-1,ES: Empeños a lo Bestia HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/212952
-#EXTINF:-1,ES: Españoles En El Mundo HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227919
-#EXTINF:-1,ES: En Tierra Hostil HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/114526
-#EXTINF:-1,ES: El Encantador de Perros HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227918
-#EXTINF:-1,ES: Forjado a Fuego HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227916
-#EXTINF:-1,ES: Policías en Acción HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227917
-#EXTINF:-1,ES: Los cazadores de mitos HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227921
-#EXTINF:-1,ES: Quien vive ahi HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227920
-#EXTINF:-1,ES: Wild Frank HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/160612
-#EXTINF:-1,ES: La Biblia Series HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/227943
-#EXTINF:-1,ES: Ben Y Holly 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/24468
-#EXTINF:-1,ES: Barbapapa 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/234417
-#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/101826
-#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/101827
-#EXTINF:-1,ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102070
-#EXTINF:-1,ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102071
-#EXTINF:-1,ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102072
-#EXTINF:-1,ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102073
-#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102080
-#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102081
-#EXTINF:-1,ES: Caballeros del Zodiaco Hades SD (115-145) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102163
-#EXTINF:-1,ES: Caballeros del Zodiaco Hades HD (115-145) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102164
-#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror SD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/93720
-#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/93705
-#EXTINF:-1,ES: Los Simpsons Temp 1-5 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/33121
-#EXTINF:-1,ES: Los Simpsons HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40866
-#EXTINF:-1,ES: Futurama 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/33122
-#EXTINF:-1,ES: Futurama HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40861
-#EXTINF:-1,ES: Padre de Familia 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/33123
-#EXTINF:-1,ES: Fabulas de Disney 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40941
-#EXTINF:-1,ES: Patrulla Canina 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/41447
-#EXTINF:-1,ES: Vaca y Pollito 24h
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/49418
-#EXTINF:-1,ES: Super Wings 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/49421
-#EXTINF:-1,ES: El Bebé Jefazo (Vuelta al curro) 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/49475
-#EXTINF:-1,ES: Wabbit 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/61025
-#EXTINF:-1,ES: Kim Possible SD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/93721
-#EXTINF:-1,ES: Kim Possible HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/93722
-#EXTINF:-1,ES: Lilo y Stitch SD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/94425
-#EXTINF:-1,ES: Lilo y Stitch HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/94452
-#EXTINF:-1,ES: Heroes Mitologicos 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/119700
-#EXTINF:-1,ES: Teen Titans Go! 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/250551
-#EXTINF:-1,ES: Zak Storm 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/250553
-#EXTINF:-1,ES: Johnny Test 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/250554
-#EXTINF:-1,ES: Garfield y amigos 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/250555
-#EXTINF:-1,ES: El Show de los Looney Tunes 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/250556
-#EXTINF:-1,ES: NCIS Los Angeles HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233946
-#EXTINF:-1,ES: NCIS Nueva Orleans HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233947
-#EXTINF:-1,ES: NCIS Navy Investigación Criminal) HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233948
-#EXTINF:-1,ES: CSI Las Vegas HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/233949
-#EXTINF:-1,ES: El Caso HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/311180
-#EXTINF:-1,ES: La Que se Avecina 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/25139
-#EXTINF:-1,ES: Pippi Calzaslargas 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/60758
-#EXTINF:-1,ES: El Principe de Bel Air HD 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40927
-#EXTINF:-1,ES: Xena La Princesa Guerrera 24H
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/61026
-#EXTINF:-1,ES: Expedientes X SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/102860
+
+
+
+#EXTINF:-1   group-title="LISTA 1", CANAL 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO CANAL 5
+http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO CANAL 5
+http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
+#EXTINF:-1   group-title="LISTA 1", TELECENTRO
+http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
+#EXTINF:-1   group-title="LISTA 1", TELEFE
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", DISCOVERY H&H
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", DISCOVERY
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", NAT GEO
+https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", GOURMET
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+#EXTINF:-1   group-title="LISTA 1", TNT
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
+#EXTINF:-1   group-title="LISTA 1", TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1   group-title="LISTA 1", CANAL 4 URUGUAY
+https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS 3
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+
+#EXTINF:-1   group-title="LISTA 1", DISCOVERY H&H
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", NAT GEO
+http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", NAT GEO
+https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", DISCOVERY
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", GOURMET
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+#EXTINF:-1   group-title="LISTA 1", TNT
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", CINECANAL
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1   group-title="LISTA 1", CANAL 4 URUGUAY
+https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS 3
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1   group-title="LISTA 1", FOX SPORTS 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", STAR CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1   group-title="LISTA 1", CANAL 13
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8 
+
+
+#EXTINF:-1   group-title="LISTA 1", COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8 
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO
+http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8 
+#EXTINF:-1   group-title="LISTA 1", TELEMICRO
+http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8 
+#EXTINF:-1   group-title="LISTA 1", TELECENTRO
+http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8 
+#EXTINF:-1   group-title="LISTA 1", CANAL 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8 
+
+#EXTINF:-1   group-title="LISTA 1", TELEFE
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", 5 DIAS
+http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8  
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", LA TELE 
+http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8 
+#EXTINF:-1 tvg-logo="g" group-title="LISTA 9", NOTICIAS PY
+http://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", SNT
+http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", SUR
+http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", TELEFUTURO
+http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", TV CAMARA
+http://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", UNICANAL
+http://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", ABC
+http://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_SAGEMCOM/ABC_TV_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", RPC
+http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", SNT
+http://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", CARTOON NETWORK
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", CINECANAL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", DISCOVERY H&H
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8 
+#EXTINF:-1 tvg-logo="g" group-title="LISTA 9", DISNEY CHANNEL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", NAT GEO
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", STAR CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", AMERICA SPORTS
+http://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", VOLVER
+http://edge-live34-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", ESPN
+http://edge-live34-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", WOBI
+http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", CANAL 5 UY
+http://edge4-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", TV CIUDAD
+http://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", VTV PLUS
+http://edge4-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", CANAL 10
+http://edge4-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", TELEDOCE
+http://edge4-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", CANAL 4
+http://edge4-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", ESPN 4
+http://edge4-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", NICKELODEON
+http://edge5-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", ESPN PREMIUN
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", VTV PLUS
+http://edge7-ccast-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LISTA 9", SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8 
+ 
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LISTA 4", ¡¡A13HD
