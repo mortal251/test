@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1516439064651649026/UAIjflyA_400x400.jpg" group-title="DEPORTE", WIN SPORTS
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", WIN SPORTS +
 http://186.103.216.85:85/m/p3.php?id=70&type=m3u8
 
