@@ -1,73 +1,140 @@
 #EXTM3U
 
 
-#EXTINF:-1,1
-http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
-#EXTINF:-1,2
-http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
-#EXTINF:-1,3
-http://190.210.221.119/Processor3_3_chunklist_b1300000.m3u8
-#EXTINF:-1,4
-http://190.210.221.119/Processor3_4_chunklist_b1300000.m3u8
-#EXTINF:-1,5
-http://190.210.221.119/Processor3_5_chunklist_b1300000.m3u8
-#EXTINF:-1,6
-http://190.210.221.119/Processor3_6_chunklist_b1300000.m3u8
-#EXTINF:-1,7
-http://190.210.221.119/Processor3_7_chunklist_b1300000.m3u8
-#EXTINF:-1,8
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1,9
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1,10
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-#EXTINF:-1,11
-http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
-#EXTINF:-1,12
-http://190.210.221.119/Processor3_12_chunklist_b1300000.m3u8
-#EXTINF:-1,13
-http://190.210.221.119/Processor3_13_chunklist_b1300000.m3u8
-#EXTINF:-1,14
-http://190.210.221.119/Processor3_14_chunklist_b1300000.m3u8
-#EXTINF:-1,15
-http://190.210.221.119/Processor3_15_chunklist_b1300000.m3u8
-#EXTINF:-1,16
-http://190.210.221.119/Processor3_16_chunklist_b1300000.m3u8
-#EXTINF:-1,17
-http://190.210.221.119/Processor3_17_chunklist_b1300000.m3u8
-#EXTINF:-1,18
-http://190.210.221.119/Processor3_18_chunklist_b1300000.m3u8
-#EXTINF:-1,19
-http://190.210.221.119/Processor3_19_chunklist_b1300000.m3u8
-#EXTINF:-1,20
-http://190.210.221.119/Processor3_20_chunklist_b1300000.m3u8
-#EXTINF:-1,21
-http://190.210.221.119/Processor3_21_chunklist_b1300000.m3u8
-#EXTINF:-1,22
-http://190.210.221.119/Processor3_22_chunklist_b1300000.m3u8
-#EXTINF:-1,23
-http://190.210.221.119/Processor3_23_chunklist_b1300000.m3u8
-#EXTINF:-1,24
-http://190.210.221.119/Processor3_24_chunklist_b1300000.m3u8
-#EXTINF:-1,25
-http://190.210.221.119/Processor3_25_chunklist_b1300000.m3u8
-#EXTINF:-1,26
-http://190.210.221.119/Processor3_26_chunklist_b1300000.m3u8
-#EXTINF:-1,27
-http://190.210.221.119/Processor3_27_chunklist_b1300000.m3u8
-#EXTINF:-1,28
-http://190.210.221.119/Processor3_28_chunklist_b1300000.m3u8
-#EXTINF:-1,29
-http://190.210.221.119/Processor3_29_chunklist_b1300000.m3u8
-#EXTINF:-1,30
-http://190.210.221.119/Processor3_30_chunklist_b1300000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1516439064651649026/UAIjflyA_400x400.jpg" group-title="DEPORTE", WIN SPORTS
 https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", WIN SPORTS +
-http://186.103.216.85:85/m/p3.php?id=70&type=m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", simpsons 3
+http://138.118.215.255:888/Live/3f4083def8265354859b79c695521bab/online-24-7.playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="SAGEMCOM",TYC Sports
+
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.nunchee.com/out/5ebd702ecf086100101a7836/original/backdrop/25.jpeg" group-title="SAGEMCOM", TyC SPORTS INTERNACIONAL
+
+http://200.89.191.164/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/wp/wp-content/uploads/2021/09/TNT_Sports-e1632251510423.png" group-title="SAGEMCOM",TNT SPORTS
+
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://megatelevisionhd.com/wp/wp-content/uploads/2021/09/Fox_Sports_Premium-e1632251479925.png" group-title="SAGEMCOM",FOX SPORTS PREMIUM
+
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="SAGEMCOM",ESPN
+
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="SAGEMCOM",ESPN Uruguay
+
+http://200.89.191.164/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN.png" group-title="SAGEMCOM",ESPN Paraguay
+
+http://200.89.191.164/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN_2.png" group-title="SAGEMCOM",ESPN 2
+
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN_2.png" group-title="SAGEMCOM",ESPN 2 Uruguay
+
+http://200.89.191.164/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY.m3u8
+
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/ESPN_2.png" group-title="SAGEMCOM",ESPN 2 Paraguay
+
+http://200.89.191.164/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="SAGEMCOM",ESPN 3 Uruguay y Paraguay
+
+http://200.89.191.164/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
+
+ 
+
+ 
+
+ 
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="DEPORTES", TyC SPORTS
+
+http://200.89.191.164/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-mp4a_145200_spa=20001-avc1_2499968=10000.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-1.png" group-title="DEPORTES", TNT SPORTS
+
+http://200.89.191.164/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-mp4a_145200_spa=20001-avc1_4999936=10014.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX SPORTS PREMIUM
+
+http://200.89.191.164/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-avc1_4999936=10000.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX SPORTS PREMIUM (Sin Relato)
+
+http://200.89.191.164/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_eng=20002-avc1_4999936=10000.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://assets.nunchee.com/out/5ebd702ecf086100101a7836/original/backdrop/25.jpeg" group-title="DEPORTES", TyC SPORTS INTERNACIONAL
+
+http://200.89.191.164/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional-mp4a_145200_spa=20001-avc1_2499968=10006.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="DEPORTES", FOX SPORTS
+
+http://200.89.191.164/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_2499968=10001.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="DEPORTES", FOX SPORTS 2
+
+http://200.89.191.164/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN
+
+http://200.89.191.164/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN Uruguay
+
+http://200.89.191.164/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY-mp4a_145200_eng=20001-avc1_2499968=10006.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN Paraguay
+
+http://200.89.191.164/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY-mp4a_145200_eng=20000-avc1_2499968=10001.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTES", ESPN 2
+
+http://200.89.191.164/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg-mp4a_145200_spa=20000-avc1_2499968=10001.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTES", ESPN 2 Uruguay
+
+http://200.89.191.164/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY-mp4a_145200_eng=20000-avc1_2499968=10006.m3u8
+
+ 
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="DEPORTES", ESPN 2 Paraguay
+
+http://200.89.191.164/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145200_eng=20001-avc1_2499968=10001.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", vtv 2
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
