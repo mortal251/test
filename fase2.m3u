@@ -136,64 +136,12 @@ http://200.89.191.164/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY-mp4a_145200_eng=2
 
 http://200.89.191.164/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-mp4a_145200_eng=20001-avc1_2499968=10001.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", vtv 2
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", ESPN +
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", fox sport 1
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", directv sports
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", espn 
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg" group-title="BRASIL", TV Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", tnt sports
-https://sv.spliktv.xyz/live/caster/enc/TNTSPORTS.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", tnt sports chile
-http://tnt-sports.cl.spliktv.xyz/Processor3_10_chunklist_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", eventos 2
-http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/Eventos_2_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", bein sports
-http://iptvcanales.gq/canales/televall/595/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
-https://dlx1rvhnuclfo.cloudfront.net/hls/2/index.m3u8?gfh
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", t.me/ssiptvargavisanos
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", t.me/ssiptvargavisanos
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", CADUCO LA LISTA
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", t.me/ssiptvargavisanos
-http://ssiptvarg.atwebpages.com/Video_expiro_lista.mp4
 
 
 
@@ -221,36 +169,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNotic
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="AMBA", MAGIC KIDS
 https://v.poastcdn.org/streaming-playlists/hls/4d4a1bdd-3c34-4d2f-8afb-635cb1ac333d/0.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
-http://directo.ddns.me:33200/800yt/202020/47580
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
-http://directo.ddns.me:33200/800yt/202020/31760
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports +
-http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228757
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1479591833701343234/R-2K8N4C_400x400.jpg" group-title="DEPORTE", WIN SPORT
-http://directo.ddns.me:33200/800yt/202020/7715
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1414723264572760068/6Fa0wPGk_400x400.jpg" group-title="DEPORTE", TIGO SPORT
-http://directo.ddns.me:33200/800yt/202020/5875
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1486580773830414337/yNR8W5b__400x400.jpg" group-title="DEPORTE", NBA TV
-http://directo.ddns.me:33200/800yt/202020/50943
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1371443145578311687/ZqIagA15_400x400.jpg" group-title="DEPORTE", VTV
-http://directo.ddns.me:33200/800yt/202020/6852
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT SPORT CHILE
-http://directo.ddns.me:33200/800yt/202020/33186
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg" group-title="DEPORTE", GOL TV
-http://directo.ddns.me:33200/800yt/202020/14029
-
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
 
@@ -259,8 +180,7 @@ https://g4.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", fox sport premiun
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
 
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1409536579127939080/GqY-VqhM_400x400.jpg" group-title="NOTICIAS", C5N  25.2
