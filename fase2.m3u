@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U 
-
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
