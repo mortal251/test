@@ -1,107 +1,11 @@
 #EXTM3U
 
-
-#EXTINF:-1,TELEFE 1
-https://system.diabenet.com/content/telefe.m3u8
-
-#EXTINF:-1,TELEFE 2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="AMBA", CITRICA RADIO
+https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
 
 
-#EXTINF:-1,TELEFE 3
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_3_av-p.m3u8
 
 
-#EXTINF:-1, EL TRECE 0
-https://system.diabenet.com/content/13.m3u8
-
-#EXTINF:-1, EL TRECE 1
-http://iptv-french.com/live/sun.php?z=111&u=zcEi1R02cq&s=1219911437&id=40559&t=live&f=ts
-
-#EXTINF:-1, EL TRECE 2
-https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/verimatrix_rotating/ArtearHD-video=3900000.m3u8
-
-#EXTINF:-1, EL TRECE 3
-http://axn.cableplay.net:25461/chepes1649/LhegZ2e6w8/7490
-
-#EXTINF:-1, EL TRECE 4
-http://axn.cableplay.net:25461/chepes1649/LhegZ2e6w8/7508
-
-#EXTINF:-1, CANAL 13 SAN LUIS
-https://59d52c5a5ce5e.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1340293278_b731072.m3u8
-
-
-#EXTINF:-1, MUSICA RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1, MTV
-http://186.33.168.33:8000/play/a05h
-
-#EXTINF:-1, CTV SAN LUIS
-https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w657729093.m3u8
-
-#EXTINF:-1, TV PUBLICA
-http://186.33.168.33:8000/play/a06y
-
-#EXTINF:-1, DISCOVERY CHANNEL
-http://186.33.168.33:8000/play/a056
-
-#EXTINF:-1, HISTORY CHANNEL
-http://186.33.168.33:8000/play/a05d
-
-#EXTINF:-1, TNT
-http://186.33.168.33:8000/play/a05m
-
-#EXTINF:-1, FOX
-http://186.33.168.33:8000/play/a05g
-
-#EXTINF:-1, FOX LIFE
-http://186.33.168.33:8000/play/a05i
-
-#EXTINF:-1, UNIVERSAL
-http://186.33.168.33:8000/play/a05f
-
-#EXTINF:-1, WARNER
-http://186.33.168.33:8000/play/a058
-
-#EXTINF:-1, NAT GEO
-http://186.33.168.33:8000/play/a05c
-
-#EXTINF:-1, CARTOON NETWORK
-http://186.33.168.33:8000/play/a05l
-
-#EXTINF:-1, NICKELODEON
-http://186.33.168.33:8000/play/a05a
-
-#EXTINF:-1, DISNEY CHANNEL
-http://186.33.168.33:8000/play/a05b
-
-#EXTINF:-1, CANAL 26
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1, TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1, MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1, TyC Sports
-https://d3055hobuue3je.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_8.m3u8
-
-#EXTINF:-1, TyC Sports 2
-http://186.33.168.33:8000/play/a04y
-
-#EXTINF:-1, FOX SPORTS
-http://186.33.168.33:8000/play/a052
-
-#EXTINF:-1, FOX SPORTS 2
-http://186.33.168.33:8000/play/a04z
-
-#EXTINF:-1, FOX SPORTS 3
-http://186.33.168.33:8000/play/a050
-
-#EXTINF:-1, ESPN
-http://186.33.168.33:8000/play/a04w
 
 #EXTINF:-1, group-title="Ar", Ar
 https://iptv-org.github.io/iptv/countries/ar.m3u
@@ -116,14 +20,7 @@ https://iptv-org.github.io/iptv/categories/xxx.m3u
 
 
 
-#EXTINF:-1, LA NACION
-http://edge10-hr.cvattv.com.ar/live/live/La_Nacion/verimatrix_rotating_FTA/La_Nacion.m3u8
-#EXTINF:-1, VOLVER
-http://edge10-hr.cvattv.com.ar/live/c2live/Volver/verimatrix_rotating_FTA/Volver.m3u8
-#EXTINF:-1, CINEAR
-http://edge10-hr.cvattv.com.ar/live/c2live/INCAA_Tv/verimatrix_rotating_FTA/INCAA_Tv.m3u8
-#EXTINF:-1, MAGAZINE
-http://edge10-hr.cvattv.com.ar/live/c3eds/Magazine/verimatrix_rotating_FTA/Magazine.m3u8
+
 
 #EXTINF:-1,CANAL 9  
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
@@ -143,8 +40,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:-1,IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1,CNN
-https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
 #EXTINF:-1,TyCSports
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1,ESPN
