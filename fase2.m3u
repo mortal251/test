@@ -1,5 +1,188 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS  
+https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N  25.2
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="NACIONALES", TV PUBLICA - 23.2 OPCION 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1 OPCION  2
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243148349932527616/tS-MzAHw_400x400.jpg" group-title="NACIONALES", VOLVER
+http://edge-live34-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346214618671230980/M67slQq9_400x400.jpg" group-title="NACIONALES", GOURMET
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg" group-title="AMBA", AMERICA SPORT
+http://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8  
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRFmFb4Vt2E8XRjCCOc-5vnpr1TIavMzDAwMoISwcNo5Pe21CCIAsKw74li8JdvlR0tI&usqp=CAU" group-title="INFANTIL", Discovery Kids
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEbZeCIW3qjbj6fxcfIsv1dpkZPd46-IMlIVs4E0hCP4V7tUtytIOrbxHhm2gy-zxRq4&usqp=CAU" group-title="INFANTIL", BABY TV
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGHmzL9cmrfJokf8iZwr6fBqMIJznpMjFlqvfmVqo80jcfAOmSHWjVGNSQZ4gyX4dY68&usqp=CAU" group-title="INFANTIL", Cartoonito
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8   
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="INFANTIL", Nickelodeon
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SUWErQJT82rCpQ5gkFPOUwjGvQiUEbHr1JzBcOYDzk8sTUpmplk9_D3XULfrhArqt6s&usqp=CAU" group-title="INFANTIL", Tooncast
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E
+https://edge-live11-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="SERIES", AXN
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="SERIES", TNT SERIES
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU" group-title="SERIES", WARNER
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="SERIES", CINEMAX 
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/3a1f7f8539ee4bfca9794ed91a49559b/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zYTFmN2Y4NTM5ZWU0YmZjYTk3OTRlZDkxYTQ5NTU5Yi9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=BKcZwvYYgZsMQkAC7n7ZF5GrEgPiiNa6Cvv-yFZIcqM3DfsfmNwEqZeeGMvmJ7TiluD8WfNw~i3kbDnHgM6I-nrfmRFhEyjXAxgvCRZm1wdP0PTwtI8rg9MHr1Uatl6rfPI56T9jXVGZ~cKcB9xuNCfvU~0aUqxrUmnQvNqxGF8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA" group-title="SERIES", Sony
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="SERIES", PARAMOUNT
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="CINE",HBO 2
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhd4vWNgnYdO3-ICOj128z5ZfWo6QWc5ckd7WUd3NZ5rV5Pik3E9gMTAy0ILqey7G0YW4&usqp=CAU" group-title="CINE",HBO PLUS
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EYfaEiP2lXI/YEbjlj_MRFI/AAAAAAAA8RM/xR324nu4oDsmDnLUHvW1Ier6pr-L56axQCLcBGAsYHQ/s0/hbo-family-2021.png" group-title="CINE",HBO FAMILY
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="CURIOSIDAD",Discovery Theather
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphoHmgXFW0G0uykugugDg3kPsWLNY8ymGjiY6e8fYt2MhCEwDLSOjxUwjTg4tQr2kojo&usqp=CAU" group-title="CURIOSIDAD",Discovery World
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo-500x283.png" group-title="CURIOSIDAD", ANIMAL PLANET
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDe3S-Qx3OWiHzXeTQswVw4MiZdHFdtgDSuT0MB_XsJMg-2q_UdmjhmCiY5ifYXjQMREU&usqp=CAU" group-title="CURIOSIDAD", H2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="CURIOSIDAD", ID Discovery
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX21ZTqddlO31hOYGNmWiTKy4h6rkhYafqKamAkQ=s900-c-k-c0x00ffffff-no-rj" group-title="CURIOSIDAD", Discovery Turbo
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA---SZIjwwIYY6dUMJm3aO1mGoTVZU1ExLVspBamtbfYzSkK42dtfi-eq2FEqsgi2o_s&usqp=CAU" group-title="SERIES", TLC
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfK3dHb78rz6Lije27us54Lv8XSKbPalpuexGI9Aq1rdtYCRxNUnEJc4sGZ0E-JEMjhc&usqp=CAU" group-title="CURIOSIDAD", HGTV
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/8006/brand.gif?itok=ASNfuna_" group-title="CURIOSIDAD", Sun Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQGX8Xa4pZ2nUg/company-logo_200_200/0/1519933770484?e=2147483647&v=beta&t=Mu98h9Vdu82pw4lmv6bo-i6OEvG59uP0ag2Ui75ZcQY" group-title="CURIOSIDAD", Food Network
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CURIOSIDAD",WOBI
+http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kwNzDIMaznE/X4zsN9QKPRI/AAAAAAAA7G8/u-YAQsKZk0UkRMI7Y1nAIeRWnBCexoBxwCLcBGAsYHQ/w200-h200/muchla-2018.png" group-title="MUSICA", MUCH MUSIC
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="AMBA", CITRICA RADIO
 https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
 
