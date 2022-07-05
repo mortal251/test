@@ -179,6 +179,46 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_quiero_m.png" group-title="MUSICA", QUIERO
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="URUGUAY", Canal 4 HD
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1501613620299456522/Q4XvaiNM_400x400.jpg" group-title="URUGUAY", Canal 10 URUGUAY
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1502371631972376585/Sja7d8RF_400x400.jpg" group-title="URUGUAY", TV CIUDAD
+http://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.5dias.com.py/assets/img/core/logo-og-share.png" group-title="PARAGUAY", 5 DIAS
+http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1524095739663568897/iHeRnHnV_400x400.jpg" group-title="PARAGUAY", LA TELE
+http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgEAUDGkCv58sW_L1_s22VkXjU44JMgpGpRy0QBl1ZCIpcBtFxEF-ywysIcbhwcugXoA&usqp=CAU" group-title="PARAGUAY", NOTICIAS PY
+http://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1058069830002188288/cJQbekKt_400x400.jpg" group-title="PARAGUAY", SNT
+http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="PARAGUAY", SUR TV
+http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg" group-title="PARAGUAY", TELEFUTURO
+http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517875013591969792/o_KEarW-_400x400.jpg" group-title="PARAGUAY", TV CAMARA
+http://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3EozzddZxGk/YTYVy-VG35I/AAAAAAAAQaU/NCzsUwnlU-gYsNdfbU4Lglv7kZlLFD8WwCLcBGAsYHQ/s440/Unicanal%2Ben%2Bvivo.jpg" group-title="PARAGUAY", UNICANAL
+http://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1513636098840449026/fjyEOfaQ_400x400.jpg" group-title="PARAGUAY", C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Crdvw-oWcAA47-k?format=jpg&name=small" group-title="PARAGUAY", RPC
+http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8 
+
 
 
 
