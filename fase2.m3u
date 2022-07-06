@@ -6,6 +6,9 @@ http://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSport
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", nada 1
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", nada 1
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8 
+
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS  
 https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
