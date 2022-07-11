@@ -36,8 +36,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Canal7/SA_Live_WebVTT_FTA/Canal7.m3u
 https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
 https://edge1.prepro.cvattv.com.ar/live/vod/Magazine/SA_Live_WebVTT_FTA/Magazine.m3u8
