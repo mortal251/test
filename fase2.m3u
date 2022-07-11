@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AUF
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", TNT SPORTS
-https://edge1.prepro.cvattv.com.ar/live/vod/TNT_Sports_HD/SA_Live_WebVTT_FTA/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", TNT SPORTS *
+http://edge1.prepro.cvattv.com.ar/live/vod/TNT_Sports_HD/SA_Live_WebVTT_FTA/TNT_Sports_HD.m3u8
 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", nada 1
-https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+http://edge1.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", nada 1
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+http://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
 
@@ -20,17 +20,17 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m
 
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS  
-https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
+http://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
 
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N  25.2
-https://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
+http://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
 https://edge1.prepro.cvattv.com.ar/live/vod/AmericaTV/SA_Live_WebVTT_FTA/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="NACIONALES", TV PUBLICA - 23.2 OPCION 2
-https://edge1.prepro.cvattv.com.ar/live/vod/Canal7/SA_Live_WebVTT_FTA/Canal7.m3u8
+https:/edge1.prepro.cvattv.com.ar/live/vod/Canal7/SA_Live_WebVTT_FTA/Canal7.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1 OPCION  2
 https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
