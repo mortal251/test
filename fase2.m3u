@@ -21,50 +21,51 @@ http://edge1.prepro.cvattv.com.ar/live/vod/ESPN_PY/SA_Live_WebVTT_FTA/ESPN_PY.m3
 
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS  
-https://edge9-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
 
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N  25.2
-https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AMERICA HD  36.1 OPCION 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/AmericaTV/SA_Live_WebVTT_FTA/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="NACIONALES", TV PUBLICA - 23.2 OPCION 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/Canal7/SA_Live_WebVTT_FTA/Canal7.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="NACIONALES", TELEFE  34.1 OPCION  2
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="NACIONALES", CANAL 13  33.1 OPCION 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
-https://edge-vod01-hr.cvattv.com.ar//live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/Magazine/SA_Live_WebVTT_FTA/Magazine.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1243148349932527616/tS-MzAHw_400x400.jpg" group-title="NACIONALES", VOLVER
-http://edge-live34-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8 
+https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346214618671230980/M67slQq9_400x400.jpg" group-title="NACIONALES", GOURMET
-https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg" group-title="AMBA", AMERICA SPORT
-http://edge-live34-hr.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451967829327872/SS4LrhOa_400x400.jpg" group-title="AMBA", AMERICA SPORT **
+https://edge1.prepro.cvattv.com.ar/live/vod/America_Sports/SA_Live_WebVTT_FTA/America_Sports.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
-https://edge-vod02-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8  
+https://edge1.prepro.cvattv.com.ar/live/vod/DisneyChannelHD/SA_Live_WebVTT_FTA/DisneyChannelHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRFmFb4Vt2E8XRjCCOc-5vnpr1TIavMzDAwMoISwcNo5Pe21CCIAsKw74li8JdvlR0tI&usqp=CAU" group-title="INFANTIL", Discovery Kids
-https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/Discovery_Kids/SA_Live_WebVTT_FTA/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEbZeCIW3qjbj6fxcfIsv1dpkZPd46-IMlIVs4E0hCP4V7tUtytIOrbxHhm2gy-zxRq4&usqp=CAU" group-title="INFANTIL", BABY TV
-https://edge-vod02-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/BabyTV/SA_Live_WebVTT_FTA/BabyTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGHmzL9cmrfJokf8iZwr6fBqMIJznpMjFlqvfmVqo80jcfAOmSHWjVGNSQZ4gyX4dY68&usqp=CAU" group-title="INFANTIL", Cartoonito
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8   
