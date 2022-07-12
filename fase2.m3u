@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="NACIONALES", DEPORT TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="NACIONALES", Ñ
+https://b7i4j3n3.stackpathcdn.com/dlive/transcode-93-29/enbfuiwebf92bue/1656777951/src/live.m3u8
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AUF
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
 
