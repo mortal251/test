@@ -1,6 +1,10 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
+#EXTINF:-1 group-title="Cine Premium" tvg-logo="https://1.bp.blogspot.com/-apxCnc6M6B4/XW3IIUCZoZI/AAAAAAAAAKU/_Pn0vNBylfYQz3YaIMzM1xinjMFbL0WsACLcBGAs/s1600/golden-plus.png",GOLDEN PLUS
+https://channel-goldenplus-cdn.blim.com/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Entretenimiento",Gourmet
 https://edge4-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
