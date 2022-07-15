@@ -6,9 +6,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1542154273454260225/Xu_W8j8r_400x400.jpg" group-title="NACIONALES", Ñ
 https://b7i4j3n3.stackpathcdn.com/dlive/transcode-93-29/enbfuiwebf92bue/1656777951/src/live.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", evento AUF
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", AUF
 https://d3b8prdkulbvx7.cloudfront.net/out/v1/d2486b9151a249358f61acc5927d59ee/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", evento AUF
+
+https://dw8hje12wnmmp.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONALES", TNT SPORTS *
 http://edge1.prepro.cvattv.com.ar/live/vod/TNT_Sports_HD/SA_Live_WebVTT_FTA/TNT_Sports_HD.m3u8
